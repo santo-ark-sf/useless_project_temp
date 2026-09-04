@@ -2,39 +2,96 @@
 
 
 
-# [Project Name] 🎯
+# Tuesday Checker 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Santo Francis * 2nd Year B.C.A Student
 
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+
+The Main Idea which presents through this project is it checks and says YES or NO whether the day is tuesday or not by using Coordinated Universal Time (UTC).Through this Project, i had also added two mini games which also represents it ; if its tuesday - shows a flappy bird game;
+if its not tuesday - shows a car racing game 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+It does not solve nothing - since this is a Useless Project
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+But, i had solved it by adding mini games to it - Ofcourse For FuN
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+    Languages used
+
+TypeScript — primary programming language
+TSX — React components
+CSS — styling
+HTML — [index.html]
+JavaScript/ES Modules — configuration files such as ESLint/Vite configs
+
+    Frameworks used
+
+React 19 — frontend UI framework
+TanStack Start — full-stack/SSR React framework
+TanStack Router — routing
+Vite — development server and build system
+Tailwind CSS v4 — utility-first styling
+Nitro — server/build runtime used by TanStack Start
+
+    Libraries used
+
+ UI & Components
+
+shadcn/ui — UI component architecture
+Radix UI — accessible UI primitives
+Lucide React — icons
+
+ Forms & Validation
+
+React Hook Form
+Zod
+@hookform/resolvers
+
+ Data & Routing
+
+TanStack React Query
+TanStack Router
+
+ Charts & UI utilities
+
+Recharts
+date-fns
+Embla Carousel
+React Day Picker
+Vaul
+cmdk
+Sonner
+Input OTP
+React Resizable Panels
+
+ CSS utilities
+
+clsx
+tailwind-merge
+class-variance-authority
+tw-animate-css
+Tools used
+Visual Studio Code / code editor — likely development environment
+Bun — package/runtime tooling ([bun.lock, bunfig.toml])
+npm — dependency management ([package-lock.json])
+Vite — build/dev tool
+TypeScript — type checking
+ESLint — code linting
+Prettier — code formatting
+Git — version control ([.git] directory)
+GitHub — repository/version-control platform indicated by the project files/README
+Lovable — the project uses [@lovable.dev/vite-tanstack-config]
+shadcn/ui CLI/component system — indicated by [components.json]
+
+
 
 ### Implementation
 For Software:
@@ -48,7 +105,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]
+<img src = "C:\Users\santo\OneDrive\Desktop\nw\useless_project_temp\photo12.png">
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -85,13 +143,6 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
