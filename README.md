@@ -105,46 +105,42 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]
+
+
 <img width="1919" height="987" alt="photo11" src="https://github.com/user-attachments/assets/a49f6e39-2413-445f-acba-59c76962dc99" />
 
-*Add caption explaining what this shows*
+*This Image the day shown today is not Tuesday, So it says the day which we're on according to UTC*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-<img width="1919" height="1079" alt="photo12" src="https://github.com/user-attachments/assets/d7191648-6cf2-4eb3-8e17-fe97759ee653" />
 
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1909" height="990" alt="photo14" src="https://github.com/user-attachments/assets/0fe7a423-392d-45c1-9ba5-9dcae7bf3542" />
+
+*It also shows a screenshot image of the Tuesday Checker*
+
+
+
+
+<img width="1919" height="999" alt="photo13" src="https://github.com/user-attachments/assets/70d1fced-0762-48d8-a98d-f3b5f4219a54" />
+
+*This Image also shows a mini game which is designed if its not tuesday it shows a racing game, if its tuesday it shows a flappy bird game*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Workflow
+<img width="222" height="1029" alt="sc11" src="https://github.com/user-attachments/assets/4e5b4022-d15a-48cc-ae25-5bd17418823d" />
+
+*The Structure/Files Order of the Project*
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
 ![Final](Add photo of final product here)
 *Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 
 ---
