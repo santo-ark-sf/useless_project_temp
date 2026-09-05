@@ -24,7 +24,7 @@ But, i had solved it by adding mini games to it - Ofcourse For FuN
 ### Technologies/Components Used
 For Software:
 
-    Languages used
+Languages used
 
 TypeScript — primary programming language
 TSX — React components
@@ -32,7 +32,7 @@ CSS — styling
 HTML — [index.html]
 JavaScript/ES Modules — configuration files such as ESLint/Vite configs
 
-    Frameworks used
+Frameworks used
 
 React 19 — frontend UI framework
 TanStack Start — full-stack/SSR React framework
@@ -41,7 +41,7 @@ Vite — development server and build system
 Tailwind CSS v4 — utility-first styling
 Nitro — server/build runtime used by TanStack Start
 
-    Libraries used
+Libraries used
 
  UI & Components
 
@@ -49,18 +49,18 @@ shadcn/ui — UI component architecture
 Radix UI — accessible UI primitives
 Lucide React — icons
 
- Forms & Validation
+Forms & Validation
 
 React Hook Form
 Zod
 @hookform/resolvers
 
- Data & Routing
+Data & Routing
 
 TanStack React Query
 TanStack Router
 
- Charts & UI utilities
+Charts & UI utilities
 
 Recharts
 date-fns
@@ -72,7 +72,7 @@ Sonner
 Input OTP
 React Resizable Panels
 
- CSS utilities
+CSS utilities
 
 clsx
 tailwind-merge
@@ -93,55 +93,54 @@ shadcn/ui CLI/component system — indicated by [components.json]
 
 
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
+<<<<<<< HEAD
 ![Screenshot1]
 
 *Add caption explaining what this shows*
+=======
+>>>>>>> 9e2f06020ff01a1a90c40799b689fc1d30817fba
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1919" height="987" alt="photo11" src="https://github.com/user-attachments/assets/a49f6e39-2413-445f-acba-59c76962dc99" />
+
+*This Image the day shown today is not Tuesday, So it says the day which we're on according to UTC*
+
+
+
+
+<img width="1909" height="990" alt="photo14" src="https://github.com/user-attachments/assets/0fe7a423-392d-45c1-9ba5-9dcae7bf3542" />
+
+*It also shows a screenshot image of the Tuesday Checker*
+
+
+
+
+
+<img width="1919" height="999" alt="photo13" src="https://github.com/user-attachments/assets/70d1fced-0762-48d8-a98d-f3b5f4219a54" />
+
+*This Image also shows a mini game which is designed if its not tuesday it shows a racing game, if its tuesday it shows a flappy bird game*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Workflow
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+<img width="222" height="1029" alt="sc11" src="https://github.com/user-attachments/assets/4e5b4022-d15a-48cc-ae25-5bd17418823d" />
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+*The Structure/Files Order of the Project*
+
+
+
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
 ![Final](Add photo of final product here)
 *Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 
 ---
