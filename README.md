@@ -24,7 +24,7 @@ But, i had solved it by adding mini games to it - Ofcourse For FuN
 ### Technologies/Components Used
 For Software:
 
-    Languages used
+Languages used
 
 TypeScript — primary programming language
 TSX — React components
@@ -32,7 +32,7 @@ CSS — styling
 HTML — [index.html]
 JavaScript/ES Modules — configuration files such as ESLint/Vite configs
 
-    Frameworks used
+Frameworks used
 
 React 19 — frontend UI framework
 TanStack Start — full-stack/SSR React framework
@@ -41,7 +41,7 @@ Vite — development server and build system
 Tailwind CSS v4 — utility-first styling
 Nitro — server/build runtime used by TanStack Start
 
-    Libraries used
+Libraries used
 
  UI & Components
 
@@ -49,18 +49,18 @@ shadcn/ui — UI component architecture
 Radix UI — accessible UI primitives
 Lucide React — icons
 
- Forms & Validation
+Forms & Validation
 
 React Hook Form
 Zod
 @hookform/resolvers
 
- Data & Routing
+Data & Routing
 
 TanStack React Query
 TanStack Router
 
- Charts & UI utilities
+Charts & UI utilities
 
 Recharts
 date-fns
@@ -72,7 +72,7 @@ Sonner
 Input OTP
 React Resizable Panels
 
- CSS utilities
+CSS utilities
 
 clsx
 tailwind-merge
