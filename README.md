@@ -106,7 +106,8 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1]
-<img src = "C:\Users\santo\OneDrive\Desktop\nw\useless_project_temp\photo12.png">
+<img width="1919" height="987" alt="photo11" src="https://github.com/user-attachments/assets/a49f6e39-2413-445f-acba-59c76962dc99" />
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
