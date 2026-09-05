@@ -93,16 +93,7 @@ shadcn/ui CLI/component system — indicated by [components.json]
 
 
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 
@@ -113,9 +104,11 @@ For Software:
 
 
 
+
 <img width="1909" height="990" alt="photo14" src="https://github.com/user-attachments/assets/0fe7a423-392d-45c1-9ba5-9dcae7bf3542" />
 
 *It also shows a screenshot image of the Tuesday Checker*
+
 
 
 
@@ -130,9 +123,7 @@ Workflow
 
 *The Structure/Files Order of the Project*
 
-For Hardware:
 
-# Schematic & Circuit
 
 
 # Build Photos
