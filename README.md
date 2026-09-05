@@ -119,7 +119,10 @@ shadcn/ui CLI/component system — indicated by [components.json]
 
 # Diagrams
 Workflow
+
+
 <img width="222" height="1029" alt="sc11" src="https://github.com/user-attachments/assets/4e5b4022-d15a-48cc-ae25-5bd17418823d" />
+
 
 *The Structure/Files Order of the Project*
 
